@@ -250,4 +250,11 @@ html{
     .footer-col{
         width: 100%;
     }
+    
+}
+.footer-Bottom{
+    background-color: #24262b;
+    color: wheat;
+    text-align:  center;
+    margin-top: 1px;
 }
